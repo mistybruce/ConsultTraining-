@@ -1,0 +1,81 @@
+body {
+  background-color: #F7EED2;
+}
+.navbar {
+  background-color: #323232;
+  border: 1px solid #323232;
+}
+.navbar-default .navbar-brand {
+  color: #2cc1f2;
+}
+.navbar-default .navbar-nav {
+  color: #F7FAFE;
+}
+.jumbotron {
+  background-image: url(../images/map.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 20%;
+  margin-top: -40px;
+}
+.jumbotron h1{
+  color: #2cc1f2;
+  text-align: center;
+  text-shadow: 5px 5px #000;
+  top: 98px;
+  left: 0px;
+  padding-left: 25px;
+}
+.mission {
+  background-color: #323232;
+  color: #F7FAFE;
+  margin-top: -30px;
+  border: 3px solid #000;
+}
+.mission h3 {
+  text-align: center;
+}
+.mission p {
+  text-align: center;
+}
+.features {
+  padding: 5% 0;
+}
+.features p {
+  color: #323232;
+  text-align: center;
+  font-size: 1.1em;
+  padding-top: 10px;
+}
+footer {
+  background-color: #323232;
+  position: absolute;
+  width: 100%;
+}
+footer p {
+  padding: 2%
+  color: #FFF;
+  vertical-align: middle;
+}
+footer ul {
+  margin-left: 35px;
+}
+.push {
+  height: 25em;
+}
+footer a {
+  color: #FFF;
+}
+.btn {
+  background-color: #008CBA;
+}
+.navbar-form .navbar-left {
+  right: 10px;
+}
+.col-xs-4 {
+  color: #FFF;
+}
+.media-object {
+  width:  90px;
+  height: 60px;
+}
